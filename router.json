@@ -1,0 +1,13 @@
+{
+    "routes": [
+      {
+        "path": "/about",
+        "component": "pages/about.vue"
+      },
+      {
+        "path": "/posts/:id",
+        "component": "pages/posts/[id].vue"
+      }
+    ]
+  }
+  
